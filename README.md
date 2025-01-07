@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ganj Khatoon Ali</h1>
 <h3 align="center">A passionate frontend developer to be from Pakistan</h3>
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400" align="right">
+<img src="https://png.pngtree.com/background/20230525/original/pngtree-female-developer-working-at-a-table-at-night-picture-image_2734060.jpg" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganjkhatoonali&label=Profile%20views&color=0e75b6&style=flat" alt="ganjkhatoonali" /> </p>
 
