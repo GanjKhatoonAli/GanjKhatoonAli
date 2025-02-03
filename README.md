@@ -1,4 +1,4 @@
-<img src="https://grindsuccess.com/wp-content/uploads/2022/04/Web-Development-Company-Names-768x425.jpg" width="1000" height="500px">
+<img src="https://th.bing.com/th/id/OIP.iBVj1kRLNw-kzuoMMYO7TAHaEK?rs=1&pid=ImgDetMain" width="700" height="500px">
 <h1 align="center">Hi 👋, I'm Ganj Khatoon Ali</h1>
 <h3 align="center">A passionate Web And App Developer to be from Pakistan</h3>
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="500" align="right">
