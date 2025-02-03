@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.Lw5fi5xCtYfoaG7B5qVF2QHaEK?rs=1&pid=ImgDetMain" width="900">
+<img src="https://th.bing.com/th/id/OIP.Lw5fi5xCtYfoaG7B5qVF2QHaEK?rs=1&pid=ImgDetMain" width="700">
 <h1 align="center">Hi 👋, I'm Ganj Khatoon Ali</h1>
 <h3 align="center">A passionate Web And App Developer to be from Pakistan</h3>
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="500" align="right">
